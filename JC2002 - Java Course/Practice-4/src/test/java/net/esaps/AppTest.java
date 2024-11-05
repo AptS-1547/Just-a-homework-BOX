@@ -1,10 +1,8 @@
-package src.test.java.net.esaps;
+package net.esaps;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
-
-import src.main.java.net.esaps.Practice4.Calculator;
 
 /**
  * Unit test for simple App.

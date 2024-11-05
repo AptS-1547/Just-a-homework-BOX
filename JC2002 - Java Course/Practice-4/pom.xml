@@ -64,10 +64,6 @@
           <version>3.3.0</version>
         </plugin>
         <plugin>
-          <artifactId>maven-jar-plugin</artifactId>
-          <version>3.4.2</version>
-        </plugin>
-        <plugin>
           <artifactId>maven-install-plugin</artifactId>
           <version>3.1.2</version>
         </plugin>
@@ -87,14 +83,14 @@
 
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
-          <version>3.0.2</version>
+          <version>3.4.2</version>
           <configuration>
             <archive>
               <manifest>
                 <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                 <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                 <addClasspath>true</addClasspath>
-                <mainClass>src.main.java.net.esaps.Practice4.RunApp</mainClass>
+                <mainClass>net.esaps.RunApp</mainClass>
               </manifest>
             </archive>
           </configuration>

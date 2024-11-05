@@ -1,4 +1,4 @@
-package src.main.java.net.esaps.Practice4;
+package net.esaps;
 
 import java.util.Scanner;
 
