@@ -24,7 +24,7 @@ theKeysIwant = ["name","number of cats"]
 
 userProfile = { 
 "name": "JP", 
-"age":  "25 :)", 
+"age": "25 :)", 
 "number of cats": 12, 
 "city": "Bristol" 
 } 

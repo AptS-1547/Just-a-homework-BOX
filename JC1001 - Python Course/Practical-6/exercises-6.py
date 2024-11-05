@@ -23,7 +23,7 @@ theKeysIwantToRemove = ["age","city"]
 
 userProfile = { 
 "name": "JP", 
-"age":  "25 :)", 
+"age": "25 :)", 
 "number of cats": 12, 
 "city": "Bristol" 
 } 
