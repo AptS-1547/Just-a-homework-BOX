@@ -1,6 +1,6 @@
 <h1 align="center">Just-a-homework-BOX</h1> 
 
-<p align="center">[![CodeFactor](https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box/badge)](https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box)</p>
+<p align="center"><a href="https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box"><img src="https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box/badge" alt="CodeFactor" /></a></p>
 
 Year JUST A HOMEWORK BOX!  
 
