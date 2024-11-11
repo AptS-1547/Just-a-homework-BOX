@@ -16,7 +16,7 @@ public class ArrivalThread extends Thread {
     public void run() {
         while (true) {
             try {
-                Thread.sleep(500 + random.nextInt(2000));
+                Thread.sleep(500 + random.nextInt(3500));
                 System.out.println("Car arrived from " + direction);
                 if (direction.equals("West")) {
                     TrafficSimulator.incrementWestQueue();

@@ -13,7 +13,7 @@ public class TrafficSimulator {
         southArrivalThread.start();
     }
 
-    public static void cross(String direction) {
+    public static synchronized void cross(String direction) {
         try {
             Thread.sleep(2000);
 
