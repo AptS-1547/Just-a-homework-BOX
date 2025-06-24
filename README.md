@@ -2,6 +2,6 @@
 
 <p align="center"><a href="https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box"><img src="https://www.codefactor.io/repository/github/apts-1547/just-a-homework-box/badge" alt="CodeFactor" /></a></p>
 
-Year JUST A HOMEWORK BOX!  
+Yeah JUST A HOMEWORK BOX!  
 
-不是哥们，怎么突然就六个star了  
+不是哥们，怎么突然就 7 个star了  
